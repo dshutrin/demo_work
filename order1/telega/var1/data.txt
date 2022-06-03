@@ -1,0 +1,3 @@
+{'id': 600403166, 'task': '', 'balans': 3, 'mode': 'main'}
+{'id': 934178704, 'task': '', 'balans': 2, 'mode': 'start'}
+{'id': 756705734, 'task': '', 'balans': 2, 'mode': 'main'}
